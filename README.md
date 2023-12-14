@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @spyrootsec
-
-- HackTheBox: https://app.hackthebox.eu/profile/SpyrootSec
-- HackerOne : https://hackerone.com/spyroot_sec
+ 
 ```bash
 echo 'Welcome <3' > message.txt
 ```
