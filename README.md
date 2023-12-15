@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spyrootsec
 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/spyrootsec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@spyrootsec) [![](https://visitor-badge.laobi.icu/badge?page_id=SpyrootSec.spyrootsec)](#)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/spyrootsec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@spyrootsec) [![hackerone](https://img.shields.io/badge/hackerone-%2320232a.svg?logo=hackerone&logoColor=white)](https://hackerone.com/spyroot_sec) [![HackTheBox](https://img.shields.io/badge/HackTheBox-%2320232a.svg?logo=HackTheBox&logoColor=green)](https://app.hackthebox.eu/profile/SpyrootSec) [![](https://visitor-badge.laobi.icu/badge?page_id=SpyrootSec.spyrootsec)](#)
 
 ```bash
 echo 'Welcome <3' > message.txt
