@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spyrootsec
 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/spyrootsec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@spyrootsec)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/spyrootsec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@spyrootsec) [![](https://visitor-badge.laobi.icu/badge?page_id=SpyrootSec.spyrootsec)](#)
 
 ```bash
 echo 'Welcome <3' > message.txt
